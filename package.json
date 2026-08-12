@@ -1,0 +1,25 @@
+{
+  "name": "fetch-release",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/iulian-tofan/fetch-release#readme",
+  "bugs": {
+    "url": "https://github.com/iulian-tofan/fetch-release/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iulian-tofan/fetch-release.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@actions/core": "^1.10.1",
+    "@actions/github": "^5.1.1",
+    "axios": "^1.5.1"
+  }
+}
